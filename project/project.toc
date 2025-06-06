@@ -1,0 +1,25 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Preliminary Results/Notation}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Linear Operators}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Inner Product Spaces and Hilbert Spaces}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Resolvent and Spectrum of \( T \)}{3}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Definitions and Results from Analysis}{4}{subsection.1.4}%
+\contentsline {section}{\numberline {2}Introduction}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Motivation}{6}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Main Theorem}{8}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Properties of Bounded Self-Adjoint Linear Operators}{9}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Basic Properties of Linear Self-adjoint Operators}{9}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Spectrum and Resolvent sets of \( T \) and Properties}{10}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Positive Operators}{14}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Positive Operators}{14}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Square Roots of Positive Operators}{17}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Projection Operators}{18}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Projection Operators}{18}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Properties of Projections}{19}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Spectral Families}{21}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Properties of Spectral Family}{21}{subsection.6.1}%
+\contentsline {section}{\numberline {7}Spectral Theorem}{26}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Spectral Representation}{26}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Applications}{28}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Convolution Operator on \( L^2(\ensuremath {\mathbb {R}}) \)}{29}{subsection.7.3}%
+\contentsline {section}{\numberline {8}Conclusion}{31}{section.8}%
